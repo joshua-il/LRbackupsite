@@ -1,0 +1,25 @@
+/* CSS Document */
+.mainhead {
+	FONT-SIZE: 11pt; COLOR: #9E0E0E; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;font-weight:bold
+}
+.tdhead {
+	FONT-SIZE: 8pt; COLOR: #153F00; FONT-FAMILY: Tahoma,Verdana, Arial, Helvetica, sans-serif;font-weight:bold
+}
+.tdsubhead {
+	FONT-SIZE: 8pt; COLOR: #BC1B00; FONT-FAMILY: Tahoma,Verdana, Arial, Helvetica, sans-serif;font-weight:bold
+}
+.tdcontent {
+	FONT-SIZE: 8pt; COLOR: #000D8C; FONT-FAMILY: Tahoma,Verdana, Arial, Helvetica, sans-serif;
+}
+input {
+    font-family: Tahoma,arial,Helvetica,Veridana; font-size: 8pt; color: #000D8C; border: 1; border-style: solid; border-color:#000000;
+	}
+.tableborder {
+	border-width: 1px; border-style: solid; border-color: #000000;
+	}
+.option_text{
+	font-family: Verdana,Arial,Helvetica,sans-serif; font-size:11px; color:#000000; font-weight:none; text-align:justify; LINE-HEIGHT: 18px;background-color:#FFFEF0;
+}
+TEXTAREA {
+	background-color : white;border : 1;border-style : solid;font : Arial, Helvetica, sans-serif;
+}

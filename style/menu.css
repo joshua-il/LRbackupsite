@@ -1,0 +1,24 @@
+/* CSS Document */
+A {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: tahoma, verdana, arial, sans-serif; TEXT-DECORATION: none
+}
+
+A.boxlink {
+	BORDER-RIGHT: #9C6012 1px solid; BORDER-TOP: #9C6012 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #9C6012 1px solid; COLOR: #9C6012; BORDER-BOTTOM: #9C6012 1px solid; FONT-FAMILY: tahoma, verdana, arial, sans-serif; BACKGROUND-COLOR: #E7DFD7; TEXT-DECORATION: none
+}
+A.boxlink:visited {
+	BORDER-RIGHT: #A26D24 1px solid; BORDER-TOP: #A26D24 1px solid; BORDER-LEFT: #A26D24 1px solid; COLOR: #A26D24; BORDER-BOTTOM: #A26D24 1px solid; TEXT-DECORATION: none
+}
+A.boxlink:active {
+	BORDER-RIGHT: #666699 1px solid; BORDER-TOP: #666699 1px solid; BORDER-LEFT: #666699 1px solid; COLOR: #666699; BORDER-BOTTOM: #666699 1px solid; TEXT-DECORATION: none
+}
+A.boxlink:hover {
+	BORDER-RIGHT: #ff6600 1px solid; BORDER-TOP: #ff6600 1px solid; BORDER-LEFT: #ff6600 1px solid; COLOR: #ff6600; BORDER-BOTTOM: #ff6600 1px solid; BACKGROUND-COLOR: #f7f7ff; TEXT-DECORATION: none
+}
+
+.boxlink {
+	BORDER-RIGHT: #000066 1px solid; BORDER-TOP: #000066 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #000066 1px solid; CURSOR: hand; COLOR: #000066; BORDER-BOTTOM: #000066 1px solid; FONT-FAMILY: tahoma, verdana, arial, sans-serif; BACKGROUND-COLOR: #EEE4D6; TEXT-DECORATION: none
+}
+.box {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: tahoma, verdana, arial, sans-serif; BACKGROUND-COLOR: #DBC5A7; TEXT-DECORATION: none
+}

@@ -1,0 +1,17 @@
+/* CSS Document */
+
+.button 
+{
+	width:50px;BORDER-RIGHT: #000000 2px solid; BORDER-TOP: #000000 2px solid; RIGHT: 50px; BACKGROUND: #d4d0c8; FONT: 10px Verdana; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+
+.oheadertext {
+	background:#FFFFaa;FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR:#000000; TEXT-DECORATION: none;FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+
+.inputtext {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000066; TEXT-DECORATION: none
+}
+.fieldname{
+background:#FFFFFF;FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #004584; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
